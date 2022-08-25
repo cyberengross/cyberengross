@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
-<h3 align="center">Student at BCIIT, Delhi🌟.</h3>
+<h3 align="center">Student at IPU, Delhi🌟.</h3>
 
 <br>
 
